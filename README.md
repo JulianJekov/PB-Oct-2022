@@ -1,9 +1,9 @@
 # PB-Oct-2022
 
 The "Basic of Programming" Java course provides:
-An introduction to one of the most sought-after programming languages
-Knowledge of basic information technology concepts
-Basic algorithmic thinking
+An introduction to one of the most sought-after programming languages. 
+Knowledge of basic information technology concepts. 
+Basic algorithmic thinking.
 
 The course covers:
 
