@@ -14,4 +14,4 @@ The course covers:
 4. While Loops
 5. Nested Loops
 
-[Programming Basics - October 2022 - Certificate.pdf](https://github.com/JulianJekov/SoftUni-Java-Programming-Basics-Oct-2022/files/14947296/Programming.Basics.-.October.2022.-.Certificate.pdf)
+![Programming Basics - October 2022 - Certificate](https://github.com/JulianJekov/SoftUni-Java-Programming-Basics-Oct-2022/assets/122814620/a423aee1-dfaa-40f7-8803-09a4ac6e4099)
